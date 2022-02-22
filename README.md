@@ -4,10 +4,9 @@
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+## Change directory to /server/ and run:
 ```
-npm run serve
+node index.js
 ```
 
 ### Compiles and minifies for production
@@ -15,9 +14,14 @@ npm run serve
 npm run build
 ```
 
-### Run your unit tests
+### Compiles and hot-reloads for development
 ```
-npm run test:unit
+npm run serve
+```
+
+### Start application
+```
+http://localhost:3000/
 ```
 
 ### Customize configuration
